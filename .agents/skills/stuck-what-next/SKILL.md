@@ -22,7 +22,7 @@ When the blocker is clear, give one action the learner can take now and, when he
 | `$safe-change` | Change unfamiliar or weakly tested code. |
 | `$test-me` | Practice recall or application. |
 | `$technical-interview` | Practice a technical interview using your codebase. |
-| `$setup-learning-repo` | Install the toolkit after approving the file plan. |
+| `$setup-learning-repo` | Install the toolkit in a project you specify. |
 | `$override` | Explicitly delegate one named task for this turn. |
 
 Leave the next action and skill choice with the learner.
