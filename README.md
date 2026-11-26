@@ -1,6 +1,6 @@
 # Software-Engineering-Learning-skills
 
-An open-source, security-first Codex coaching toolkit for computer science students and early-career software engineers. Use AI to learn coding and system design through your own projects. Make decisions, verify how your software behaves, and practice explaining your reasoning for interviews.
+Security-first Codex coaching toolkit for computer science students and early-career software engineers. Use AI to learn coding and system design through your own projects. Make decisions, verify how your software behaves, and practice explaining your reasoning for interviews.
 
 ## The Main Flow
 
