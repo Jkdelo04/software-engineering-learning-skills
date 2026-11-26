@@ -40,6 +40,7 @@ For manual installation, copy the skill folders under `.agents/skills/` and the 
 | `$secure-design` | You are planning a feature that touches trust, permissions, or sensitive data. |
 | `$security-review` | You want to review existing work for security risks. |
 | `$system-design` | You need to compare designs and think through boundaries and trade-offs. |
+| `$codebase-conventions` | You want a project style guide or feedback on file placement and code readability. |
 | `$debugging` | The observed behavior differs from what you expected. |
 | `$test-first` | You want to express a behavior as a small test before implementing it. |
 | `$safe-change` | You need to change unfamiliar or weakly tested code. |

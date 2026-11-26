@@ -17,6 +17,7 @@ When the blocker is clear, give one action the learner can take now and, when he
 | `$secure-design` | Plan a feature that crosses a trust boundary. |
 | `$security-review` | Review existing work for security risks. |
 | `$system-design` | Compare designs and pick boundaries. |
+| `$codebase-conventions` | Draft or apply conventions for file placement and readable code. |
 | `$debugging` | Investigate behavior you did not expect. |
 | `$test-first` | Express one behavior as a test. |
 | `$safe-change` | Change unfamiliar or weakly tested code. |
